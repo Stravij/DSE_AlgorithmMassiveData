@@ -1,1 +1,14 @@
 Here are collected the ouput of the Algorithms
+
+With sample dataset
+algo_Apriori10000-1_output.txt
+algo_Apriori10000-2_output.txt
+algo_Apriori10000-3_output.txt
+
+With modified sample dataset
+algo_PCY10000-1_output.txt
+algo_PCY10000-2_output.txt
+algo_Apriori10000-1mod_output.txt
+algo_Apriori10000-2mod_output.txt
+
+With full dataset
